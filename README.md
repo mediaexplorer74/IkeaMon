@@ -7,7 +7,7 @@ from "technical" mode" to "active (shopping)" mode =)
 ![Ikea Monitor](Images/IkeaMon.png)
 
 ## Tech. details
-I used Selenium for Chome Browser's Remote Control ;)
+I used Selenium for Chrome Browser's Remote Control ;)
 When Ikea Monitor catches site "reforming" moment, the app beeps the system sound ))))
 
 
